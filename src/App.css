@@ -1,0 +1,14 @@
+.inputErr {
+  border: 2px solid red;
+}
+
+.error {
+  font-size: 12px;
+  color: red;
+}
+
+.inputLabel {
+  /* border: 2px solid black; */
+  height: 70px;
+  margin-top: 30px;
+}
